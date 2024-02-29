@@ -10,20 +10,17 @@
 			<h3>Đinh Trung Hiếu</h3> 
             <img src="https://img.wattpad.com/cover/221263166-288-k317951.jpg">
 			<a href="https://www.facebook.com"><p id="email"  a>
-
 			<a href="https://www.facebook.com/profile.php?id=100045307205070"><p id="email">facebook cua hieu</p></a>
             <h3>contact for working:0774414028 </h3>
 		</div>
 		<h2>Things I like to do</h2>
 			<img src="https://www.dailybreeze.com/wp-content/uploads/2017/12/xxxx_spo_ocr-l-soccer-generic-stock-0013.jpg?w=620.jpg">
 			<img src="https://th.bing.com/th/id/OIP.VMwwSe3OM1xHewKDGlXCoQHaE8?rs=1&pid=ImgDetMain.jpg">
-			
 			<img src="http://farm4.staticflickr.com/3829/11467551254_2e1ffed34b_n.jpg">
 		<h2 style="color:aliceblue">About Me</h2>
 			<p>tôi tên là hiếu,tôi đến từ Việt Nam,thuộc thành phố Đà Nẵng,
                 là 1 trong những thành phố đáng sống,và ở nơi đây tôi đang
                  tận hưởng niềm vui với gia đình yêu thương của mình.</p>
-                 
                  <h2 style="color:aliceblue">My university</h2>
                  <img src="https://th.bing.com/th/id/OIP.FAdqzolbMK3kdhfAqlTMJwHaFi?rs=1&pid=ImgDetMain.jpg">
                  <h2 style="color:aliceblue">My coleague: information security</h2>
@@ -33,7 +30,6 @@
 				<li>League of legend</li>
 				<li>Fifa</li>
 				<li>Pokemon</li>
-			
 			</ul>
 			<h2 style="color:aliceblue">Favorite Places in my city</h2>
             <li style="color:aliceblue">Hoi An</li>
