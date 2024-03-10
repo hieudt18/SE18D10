@@ -2,7 +2,7 @@
 <html style="color:rgb(82, 143, 178);background-color:rgb(158, 192, 212)">
 <head>
 	<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
-	<h1><title>page cua Hieu</title></h1>
+	<h1>page cua Hieu</h1>
 </head>
 <body>
 	<div id="header">
